@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "quantumbot-core-d6912",
+    "test": "quantumbot-core-d6912"
+  }
+}
