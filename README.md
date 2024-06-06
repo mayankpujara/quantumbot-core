@@ -14,7 +14,7 @@ QuantumChat Bot is a sophisticated chat application built using modern backend t
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/mayankpujara/quantumbot-core.git
+   git clone https://github.com/"YOUR-USERNAME"/quantumbot-core.git
 2. Install Dependencies
    ```sh
    npm install
